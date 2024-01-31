@@ -1,0 +1,1 @@
+This one here is just a mockup of any initial login or account setup page. This could be changed or customised as per the needs of the website, this was created just for the the purpose to learn how to make such pages on any website where there is a login or account setup would be required.
